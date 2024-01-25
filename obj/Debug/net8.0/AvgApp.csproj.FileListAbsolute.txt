@@ -1,0 +1,14 @@
+C:\Users\Pipo\learn-CSharp\AvgApp\bin\Debug\net8.0\AvgApp.exe
+C:\Users\Pipo\learn-CSharp\AvgApp\bin\Debug\net8.0\AvgApp.deps.json
+C:\Users\Pipo\learn-CSharp\AvgApp\bin\Debug\net8.0\AvgApp.runtimeconfig.json
+C:\Users\Pipo\learn-CSharp\AvgApp\bin\Debug\net8.0\AvgApp.dll
+C:\Users\Pipo\learn-CSharp\AvgApp\bin\Debug\net8.0\AvgApp.pdb
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\AvgApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\AvgApp.AssemblyInfoInputs.cache
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\AvgApp.AssemblyInfo.cs
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\AvgApp.csproj.CoreCompileInputs.cache
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\AvgApp.dll
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\refint\AvgApp.dll
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\AvgApp.pdb
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\AvgApp.genruntimeconfig.cache
+C:\Users\Pipo\learn-CSharp\AvgApp\obj\Debug\net8.0\ref\AvgApp.dll
